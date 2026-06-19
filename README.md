@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**hemanthks2005/hemanthks2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science & Engineering Student
+💻 Aspiring Software Developer
+🌱 Currently learning Python, Data Structures & Algorithms
+🚀 Interested in Software Development
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- HTML, CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+B.E. in Information Science & Engineering
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/hemanthks21/
+- Email: hemanthknskns2005@gmail.com
