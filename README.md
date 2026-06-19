@@ -4,14 +4,13 @@
 Aspiring Software Developer | Python Developer | AI Enthusiast
 </h3>
 
-## Skills
-- Python
-- SQL
-- HTML, CSS
-- Git & GitHub
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=600&lines=Software+Developer;Python+Developer;AI+Enthusiast;Problem+Solver">
+</p>
 
-## Education
-B.E. in Information Science & Engineering
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,html,css">
+</p>
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/hemanthks21/
