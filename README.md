@@ -5,7 +5,7 @@ Aspiring Software Developer | Python Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=600&lines=Software+Developer;Python+Developer;AI+Enthusiast;Problem+Solver">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=600&lines=Aspiring Software+Developer">
 </p>
 
 <p align="center">
