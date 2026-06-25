@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemanth K S</h1>
 
 <h3 align="center">
-Aspiring Software Developer | Python Developer | AI Enthusiast
+Aspiring Software Developer | Python Developer 
 </h3>
 
 <p align="center">
